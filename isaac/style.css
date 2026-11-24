@@ -1,0 +1,34 @@
+body {
+  font-family: "Courier Prime", monospace;
+  position: relative;
+}
+
+.container{
+  display: block;
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+  /*width: 1000px;
+  /*margin:0;
+  /*align-items: center;
+  /*justify-content: center;
+  padding:100px;*/
+}
+
+.main-header{
+  color: #0052FF;
+  padding: 40px 40px;
+  text-align:center;
+  /*color: #F54927;*/
+  margin-bottom:40px;
+}
+
+.post{
+  margin: 0 auto;
+  width:700px;
+  margin-bottom:80px;
+}
+
+.post-body {
+  text-align:left;
+}
